@@ -17,7 +17,6 @@ Kullanıcının girmiş olduğu sayılardan m'e eşit yada tam bölünenleri con
 ## C# Solution
 
 ```csharp
-// See https://aka.ms/new-console-template for more information
 using System.Reflection;
 
 int n, m;

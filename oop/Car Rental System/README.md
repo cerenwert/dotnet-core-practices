@@ -1,12 +1,12 @@
-Car Rental System 
+# Car Rental System
 
-A simple console-based car rental system developed with C# and .NET.
+A simple console-based car rental system written in C#.
 
-##Features
-List available cars
-Rent a car
-Return a rented car
-Customer information management
+## Features
+- List available cars
+- Rent a car
+- Return a car
+- Customer management
 
 ##Technologies
 C#

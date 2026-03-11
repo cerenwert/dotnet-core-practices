@@ -8,7 +8,7 @@ A simple console-based car rental system written in C#.
 - Return a car
 - Customer management
 
-##Technologies
-C#
-.NET Console Application
-Object-Oriented Programming (OOP)
+## Technologies
+-C#
+-.NET Console Application
+-Object-Oriented Programming (OOP)

@@ -1,0 +1,80 @@
+/* Genel sayfa ayarları */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f4f6f9;
+    margin:0;
+    padding:0;
+}
+
+/* Ana kutu */
+.container{
+    width:600px;
+    margin:40px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Başlık */
+h1{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+/* Form kutuları */
+.form-container{
+    margin-bottom:25px;
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:8px;
+    background:#fafafa;
+}
+
+/* Başlıklar */
+h2{
+    margin-bottom:15px;
+}
+
+/* Etiketler */
+label{
+    display:block;
+    margin-top:10px;
+    font-weight:bold;
+}
+
+/* Input alanları */
+input{
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    box-sizing:border-box;
+}
+
+/* Buton */
+button{
+    margin-top:15px;
+    padding:10px;
+    width:100%;
+    background:#007bff;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+    font-size:15px;
+}
+
+/* Buton hover */
+button:hover{
+    background:#0056b3;
+}
+
+/* Status alanı */
+.status-container{
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:8px;
+    background:#fafafa;
+}

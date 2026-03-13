@@ -1,0 +1,5 @@
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\TodoBoardApp\TodoBoardApp\obj\Debug\net10.0\TodoBoardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\TodoBoardApp\TodoBoardApp\obj\Debug\net10.0\TodoBoardApp.AssemblyInfoInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\TodoBoardApp\TodoBoardApp\obj\Debug\net10.0\TodoBoardApp.AssemblyInfo.cs
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\TodoBoardApp\TodoBoardApp\obj\Debug\net10.0\TodoBoardApp.csproj.CoreCompileInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\TodoBoardApp\TodoBoardApp\obj\Debug\net10.0\TodoBoardApp.sourcelink.json

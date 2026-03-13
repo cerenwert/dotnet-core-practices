@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArabaKiralama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05fbd8fcd06530cffe8873971e6e7f3ecb6c15c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5892102fb8936c5ef12753d9b9076d0614b6427c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArabaKiralama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArabaKiralama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\bin\Debug\net10.0\ArabaKiralama.exe
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\bin\Debug\net10.0\ArabaKiralama.deps.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\bin\Debug\net10.0\ArabaKiralama.runtimeconfig.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\bin\Debug\net10.0\ArabaKiralama.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\bin\Debug\net10.0\ArabaKiralama.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.AssemblyInfoInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.AssemblyInfo.cs
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.csproj.CoreCompileInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.sourcelink.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\refint\ArabaKiralama.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ArabaKiralama.genruntimeconfig.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\oop\CarRentalSystem\obj\Debug\net10.0\ref\ArabaKiralama.dll

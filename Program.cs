@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 
 class Program
@@ -17,3 +18,7 @@ class Program
         }
     }
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> 8724e699eda1a3543fdb6bab750e618216bc1cd5

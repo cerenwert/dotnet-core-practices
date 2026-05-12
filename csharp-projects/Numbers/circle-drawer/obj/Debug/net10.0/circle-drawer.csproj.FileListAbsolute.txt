@@ -1,0 +1,15 @@
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\bin\Debug\net10.0\circle-drawer.exe
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\bin\Debug\net10.0\circle-drawer.deps.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\bin\Debug\net10.0\circle-drawer.runtimeconfig.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\bin\Debug\net10.0\circle-drawer.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\bin\Debug\net10.0\circle-drawer.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.AssemblyInfoInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.AssemblyInfo.cs
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.csproj.CoreCompileInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.sourcelink.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\refint\circle-drawer.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\circle-drawer.genruntimeconfig.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\circle-drawer\obj\Debug\net10.0\ref\circle-drawer.dll

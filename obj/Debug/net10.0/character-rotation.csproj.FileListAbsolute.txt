@@ -1,0 +1,15 @@
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\bin\Debug\net10.0\character-rotation.exe
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\bin\Debug\net10.0\character-rotation.deps.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\bin\Debug\net10.0\character-rotation.runtimeconfig.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\bin\Debug\net10.0\character-rotation.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\bin\Debug\net10.0\character-rotation.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.AssemblyInfoInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.AssemblyInfo.cs
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.csproj.CoreCompileInputs.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.sourcelink.json
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\refint\character-rotation.dll
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.pdb
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\character-rotation.genruntimeconfig.cache
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\csharp-projects\Numbers\character-rotation\obj\Debug\net10.0\ref\character-rotation.dll

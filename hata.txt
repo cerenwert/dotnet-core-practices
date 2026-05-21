@@ -1,0 +1,9 @@
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\dotnet-core-practices.sln : Çözüm dosyası error MSB5004: Çözüm dosyasında "Numbers" adlı iki proje var.
+
+Oluşturma BAŞARISIZ OLDU.
+
+C:\Users\victus\ders\ArabaKiralama\dotnet-core-practices\dotnet-core-practices.sln : Çözüm dosyası error MSB5004: Çözüm dosyasında "Numbers" adlı iki proje var.
+    0 Uyarı
+    1 Hata
+
+Geçen Süre 00:00:00.08

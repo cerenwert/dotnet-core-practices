@@ -1,12 +1,21 @@
-# FibonacciAverageApp
+# Fibonacci Average App
 
-Bu uygulama kullanıcıdan alınan sayı kadar Fibonacci dizisi üretir ve sayıların ortalamasını hesaplar.
+Kullanıcıdan alınan derinlik bilgisine göre Fibonacci serisi oluşturan ve serinin ortalamasını hesaplayan C# console uygulaması.
 
 ## Özellikler
 
-- Fibonacci dizisi oluşturur
-- Sayıları ekrana yazdırır
-- Ortalama hesaplar
+- Kullanıcıdan pozitif tam sayı alma
+- Fibonacci serisi oluşturma
+- Seriyi ekrana yazdırma
+- Serinin ortalamasını hesaplama
+- Hatalı giriş kontrolü
+
+---
+
+## Proje Mantığı
+
+Uygulama çalıştığında kullanıcıdan Fibonacci serisinin derinliği alınır.
+
 
 ## Örnek
 
@@ -20,7 +29,10 @@ Output:
 
 Ortalama: 1.4
 
-## Teknolojiler
+## Kullanılan Teknolojiler
 
 - C#
 - .NET Console Application
+- List Collection
+- Loop Structures
+- Method Usage

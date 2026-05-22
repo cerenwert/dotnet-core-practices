@@ -27,9 +27,11 @@ namespace FibonacciAverageApp
                 }
                 Console.WriteLine("Lütfen geçerli bir pozitif tam sayı giriniz."); 
             }
-            static List<int> GenerateFibonacciSeries(int depth)
-            {
-                 List<int> series = new List<int>();
+        }
+
+        static List<int> GenerateFibonacciSeries(int depth)
+        {
+             List<int> series = new List<int>();
 
                 if (depth >= 1)
                 series.Add(0);
@@ -73,4 +75,4 @@ namespace FibonacciAverageApp
         }
 
     }
-}
+

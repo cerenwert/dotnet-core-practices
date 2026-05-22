@@ -66,5 +66,11 @@ dotnet-core-practices/
 │
 ├── oop/
 │
+│├── solutions/
+│   └── dotnet-core-practices.sln
+│
 ├── README.md
-└── .gitignore
+│
+├── .gitignore
+│
+└── dotnet-core-practices.csproj

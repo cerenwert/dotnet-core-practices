@@ -9,8 +9,9 @@ class Program
         ArrayList asalOlmayan = new ArrayList();
 
         int sayac = 0;
-
-        while (sayac < constants.SayiAdedi)
+        Console.Write("Kaç adet sayı girmek istiyorsunuz: ");
+        int adet = int.Parse(Console.ReadLine()!);
+        while (sayac < adet)
         {
             Console.Write($"{sayac + 1}. pozitif sayıyı girin: ");
             int sayi;

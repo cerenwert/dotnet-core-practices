@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 
 class Program
@@ -10,7 +10,7 @@ class Program
 
         int sayac = 0;
 
-        while (sayac < 20)
+        while (sayac < constants.SayiAdedi)
         {
             Console.Write($"{sayac + 1}. pozitif sayıyı girin: ");
             int sayi;

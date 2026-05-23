@@ -1,78 +1,149 @@
- # Voting Uygulaması - C#
+# Voting Uygulaması - C#
 
-Konsol tabanlı, kullanıcı kayıtlı oylama uygulaması. Önceden tanımlı kategorilerde oy verme, kayıt sistemi ve detaylı sonuç raporu içeren modern bir C# uygulaması.
+Konsol tabanlı kullanıcı oylama uygulaması.  
+Kullanıcılar sisteme giriş yapabilir, ana kategori ve alt kategori seçerek oy verebilir ve sonuçları yüzdelik olarak görüntüleyebilir.
 
-## Özellikler
+---
 
-- Pre-defined kategoriler ile oylama
+# Özellikler
+
 - Kullanıcı kayıt ve giriş sistemi
-- Kayıtlı olmayan kullanıcılar anında kayıt olup oylamaya devam edebilir
-- Her kategoride tek seçim
-- Oylama sonunda **rakamsal** ve **yüzdesel** sonuç gösterimi
-- Veriler JSON dosyalarında kalıcı olarak saklanır
-- Kolayca yeni kategori ve seçenek eklenebilir
+- Ana kategori ve alt kategori yapısı
+- Menü tabanlı seçim sistemi
+- Alt kategorilere oy verebilme
+- Toplam oy sayısını gösterme
+- Yüzdelik oy sonuçları
+- Büyük/küçük harf duyarsız kullanıcı kontrolü
+- Hatalı girişlerde `TryParse` ile güvenli input kontrolü
+- OOP yapısına uygun servis ve model mimarisi
 
-### Örnek Kategoriler
-- **Film Kategorileri**
-- **Tech Stack Kategorileri**
-- **Spor Kategorileri**
+---
 
-## Gereksinimler
-
-- .NET 8.0 (önerilen) veya .NET 6.0
-- Visual Studio 2022 veya VS Code
-
-## Kurulum ve Çalıştırma
-
-```bash
-git clone <repo-url>
-cd VotingApp
-
-dotnet restore
-dotnet build
-dotnet run
-
-```text
-### Ana Menü
-=== VOTING UYGULAMASI ===
-1. Oylamaya Başla
-2. Sonuçları Görüntüle
-3. Çıkış
-Seçiminiz: 
-```text
-### Kullanıcı Giriş / Kayıt
-Username: ceren123
-Bu kullanıcı bulunamadı. Kayıt olmak ister misiniz? (E/H): E
-Şifre: ******
-Kayıt başarılı! Oylamaya devam ediliyor...
-### Oylama Ekranı
-=== OYLAMA ===
-Mevcut Kategoriler:
-1. Film Kategorileri
-2. Tech Stack Kategorileri
-3. Spor Kategorileri
-
-Kategori seçin (1-3): 1
-
-En İyi Film
-1. Inception
-2. The Matrix
-3. Interstellar
-4. Dune: Part Two
-Oyunuzu girin (1-4): 3
-
-### Sonuç Ekranı
-=== OYLAMA SONUÇLARI ===
-En İyi Film
-1. Inception           : 15 oy   (%37.5)
-2. The Matrix          : 12 oy   (%30.0)
-3. Interstellar        : 8 oy    (%20.0)
-4. Dune: Part Two      : 5 oy    (%12.5)
-
-## Kullanılan Teknolojiler
+# Kullanılan Yapılar
 
 - C#
-- .NET
-- JSON Serialization
-- Console Application
-- OOP
+- .NET Console Application
+- OOP (Object Oriented Programming)
+- List<T>
+- LINQ
+- Namespace yapısı
+- Service Layer mantığı
+
+---
+
+# Kategori Yapısı
+
+## Sanat
+- Resim
+- Heykel
+- Müzik
+- Tiyatro
+- Sinema
+
+## Spor
+- Futbol
+- Basketbol
+- Voleybol
+- Tenis
+- Yüzme
+
+## Teknoloji
+- Yazılım
+- Donanım
+- Yapay Zeka
+- Siber Güvenlik
+- Oyun Geliştirme
+
+## Seyahat
+- Doğa
+- Kültür
+- Macera
+- Tatil
+- Gezi Rehberi
+
+## Yemek
+- Türk Mutfağı
+- Dünya Mutfağı
+- Vejetaryen
+- Vegan
+- Tatlı
+
+## Moda
+- Giyim
+- Aksesuar
+- Ayakkabı
+- Çanta
+- Takı
+
+## Sağlık
+- Beslenme
+- Egzersiz
+- Zihinsel Sağlık
+- Hastalıklar
+- Sağlıklı Yaşam
+
+---
+
+# Uygulama Akışı
+
+1. Kullanıcı username girer
+2. Kullanıcı sistemde kayıtlı mı kontrol edilir
+3. Ana kategoriler listelenir
+4. Kullanıcı ana kategori seçer
+5. Alt kategoriler listelenir
+6. Kullanıcı alt kategori seçer
+7. Oy sisteme kaydedilir
+8. Kullanıcı isterse sonuçları görüntüleyebilir
+
+---
+
+# Örnek Kullanım
+
+```text
+=== VOTING APP ===
+
+Please enter your username:
+umut
+
+Welcome back umut
+
+--- MAIN CATEGORIES ---
+
+1 - Sanat
+2 - Spor
+3 - Teknoloji
+4 - Sağlık
+
+Select main category:
+3
+
+--- SUB CATEGORIES ---
+
+1 - Yazılım
+2 - Donanım
+3 - Yapay Zeka
+4 - Siber Güvenlik
+
+Select sub category:
+3
+
+You voted for Yapay Zeka
+Total votes: 1
+
+Would you like to see voting results? (yes/no):
+yes
+
+## Örnek Sonuç Ekranı
+
+```text
+--- VOTING RESULTS ---
+
+Teknoloji
+
+ - Yazılım: 2 votes (%20.0)
+ - Donanım: 1 votes (%10.0)
+ - Yapay Zeka: 5 votes (%50.0)
+ - Siber Güvenlik: 2 votes (%20.0)
+
+Total votes cast: 10
+```

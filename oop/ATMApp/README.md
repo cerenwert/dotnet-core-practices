@@ -108,3 +108,10 @@ This project was developed to practice:
 
 ```
 ```
+## Turkish Summary
+
+Bu proje, C# ve .NET kullanılarak geliştirilmiş konsol tabanlı bir ATM uygulamasıdır.
+
+Kullanıcılar kart numarası ve PIN bilgileriyle giriş yapabilir, para çekme, para yatırma ve bakiye görüntüleme işlemlerini gerçekleştirebilir. Yapılan işlemler log dosyalarına kaydedilir ve uygulama çıkışında gün sonu raporu oluşturulur.
+
+Bu proje kapsamında Nesne Yönelimli Programlama (OOP), dosya okuma/yazma işlemleri, loglama sistemi ve servis katmanı yapıları uygulanmıştır.

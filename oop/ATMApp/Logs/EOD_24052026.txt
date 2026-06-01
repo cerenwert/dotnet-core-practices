@@ -1,0 +1,21 @@
+===== GÜN SONU RAPORU =====
+
+RAPOR TARIHI: 24.05.2026
+
+TRANSACTIONS
+--------------------------------------------
+
+24.05.2026 20:15:10 | TRANSACTION | Umut Ates | Para Yatırma | 1500 TL
+24.05.2026 20:20:44 | TRANSACTION | Umut Ates | Para Çekme | 500 TL
+24.05.2026 20:27:55 | TRANSACTION | Ceren Ates | Para Yatırma | 2500 TL
+24.05.2026 20:40:21 | TRANSACTION | Ceren Ates | Para Çekme | 1000 TL
+24.05.2026 20:52:30 | TRANSACTION | Umut Ates | Para Çekme | 300 TL
+
+FRAUD LOGS
+--------------------------------------------
+
+24.05.2026 20:25:12 | FRAUD | 1001 | HATALI GIRIS
+24.05.2026 20:31:08 | FRAUD | 9999 | TANIMSIZ KART
+24.05.2026 20:45:17 | FRAUD | 1002 | YETERSIZ BAKIYE
+
+===== RAPOR SONU =====

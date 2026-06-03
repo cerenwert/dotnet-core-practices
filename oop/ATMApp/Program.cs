@@ -36,12 +36,12 @@ if (user != null)
         {
             case "1":
                 Console.Write("Çekmek istediğiniz miktar: ");
-                decimal withdrawAmount = decimal.Parse(Console.ReadLine());
+                decimal withdrawAmount = decimal.Parse(Console.ReadLine()!);
                 atmService.Withdraw(user, withdrawAmount);
                 break;
             case "2":
                 Console.Write("Yatırmak istediğiniz miktar: ");
-                decimal depositAmount = decimal.Parse(Console.ReadLine());
+                decimal depositAmount = decimal.Parse(Console.ReadLine()!);
                 atmService.Deposit(user, depositAmount);
                 break;
             case "3":
